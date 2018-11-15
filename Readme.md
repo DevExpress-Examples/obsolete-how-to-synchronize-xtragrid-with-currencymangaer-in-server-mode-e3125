@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[ServerModeBindingComponent.cs](./CS/BindingListForServerMode/ServerModeBindingComponent.cs) (VB: [ServerModeBindingComponent.vb](./VB/BindingListForServerMode/ServerModeBindingComponent.vb))**
+<!-- default file list end -->
 # (Obsolete) How to synchronize XtraGrid with CurrencyMangaer in Server Mode
 
 
